@@ -37,7 +37,7 @@
 <p>Uma página com um formulário funcional que coleta informações pessoais.</p>
 <p>Uma página de resultado que exibe os dados do formulário em uma saída HTML formatada.</p>
 
-![form](/img/form.png)
+<img width="603" alt="Captura de Tela 2023-10-03 às 19 30 30" src="https://github.com/campinho-digital/Desafio-HTML/assets/108235987/0154080e-c447-4a5f-bd5b-95699ed708c5">
 
 <br>
 <h2>Critérios de aceitação</h2>
